@@ -1,0 +1,4 @@
+-r requirements-demo.txt
+pypdfium2==5.13.0
+rapidocr==3.9.2
+onnxruntime==1.30.0
