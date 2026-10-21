@@ -12,7 +12,7 @@ The workflow extracts measurement data from PDFs, allows manual correction and v
 
 The project is based on practical laboratory experience and uses synthetic data for public demonstration. It is not validated for GMP production use.
 
-**Status:** local desktop prototype. Not a validated production system or an authenticated electronic-signature solution.
+**Status:** Not a validated production system or an authenticated electronic-signature solution.
 
 ![Synthetic CCIT chart — no company data](docs/assets/demo-chart.png)
 
