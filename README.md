@@ -4,7 +4,7 @@
 
 [繁體中文](README.zh-TW.md) · [Design notes / 設計說明](docs/DESIGN.md) · [Operation guide / 操作指南](docs/USAGE.md)
 
-A Python portfolio project for container closure integrity testing (CCIT) workflows. It combines template-based PDF OCR, column alignment, exception review and a final human sign-off before generating Excel reports and charts.
+A Python portfolio project inspired by the practical laboratory task of manually transferring container closure integrity testing (CCIT) results from instrument PDF reports into Excel. It combines template-based PDF OCR, column alignment, exception review and a final human review and sign-off step before generating statistical analyses, Excel reports and charts. The public repository contains only synthetic demonstration data. This project is a development prototype and has not undergone formal computerized system validation for GMP use.
 
 **Status:** local desktop prototype. Not a validated production system or an authenticated electronic-signature solution.
 
