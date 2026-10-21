@@ -123,7 +123,7 @@ docs/               Bilingual usage, design notes and synthetic preview
 
 ## Engineering decisions and learning
 
-The first version corrected known OCR errors at fixed row numbers. The reusable version instead uses page/column positions and source-linked review records. This avoids assuming that the next PDF has the same number of samples or the same errors.
+During development, I initially used fixed row numbers to correct known OCR errors. I later switched to position-based extraction to handle reports with different sample counts and layouts. This avoids assuming that the next PDF has the same number of samples or the same errors.
 
 The most important decision was to treat human review as an explicit step—not as an informal task after reports had already been generated. Full-page and column OCR provide useful cross-checks, but can still agree on the same wrong value.
 
