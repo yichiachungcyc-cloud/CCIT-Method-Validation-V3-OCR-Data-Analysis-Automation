@@ -4,7 +4,6 @@
 
 [繁體中文](README.zh-TW.md) · [Design notes / 設計說明](docs/DESIGN.md) · [Operation guide / 操作指南](docs/USAGE.md)
 
-# CCIT Review & Analysis V3
 
 A Python project developed to reduce manual data entry and calculation work when reviewing scanned CCIT instrument reports.
 
