@@ -1,6 +1,7 @@
 # Container Closure Integrity Testing (CCIT) / Vacuum Decay Review & Analysis
 
 **From scanned test reports to reviewed data, analysis and charts.**
+
 Version 3 of a personal CCIT project, extending earlier data analysis workflows with OCR-based extraction, human verification, and automated reporting.
 
 [繁體中文](README.zh-TW.md) · [Design notes / 設計說明](docs/DESIGN.md) · [Operation guide / 操作指南](docs/USAGE.md)
