@@ -4,7 +4,13 @@
 
 [繁體中文](README.zh-TW.md) · [Design notes / 設計說明](docs/DESIGN.md) · [Operation guide / 操作指南](docs/USAGE.md)
 
-A Python portfolio project inspired by the practical laboratory task of manually transferring container closure integrity testing (CCIT) results from instrument PDF reports into Excel. It combines template-based PDF OCR, column alignment, exception review and a final human review and sign-off step before generating statistical analyses, Excel reports and charts. The public repository contains only synthetic demonstration data. This project is a development prototype and has not undergone formal computerized system validation for GMP use.
+# CCIT Review & Analysis V3
+
+A Python project developed to reduce manual data entry and calculation work when reviewing scanned CCIT instrument reports.
+
+The workflow extracts measurement data from PDFs, allows manual correction and verification, and generates statistical results, Excel reports and control charts.
+
+The project is based on practical laboratory experience and uses synthetic data for public demonstration. It is not validated for GMP production use.
 
 **Status:** local desktop prototype. Not a validated production system or an authenticated electronic-signature solution.
 
